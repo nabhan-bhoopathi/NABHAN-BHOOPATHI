@@ -1,9 +1,7 @@
 
 # ❄️ Hi there, I'm Nabhan Bhoopathi! 🐧
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/246811803?v=4?type=soft&color=0077b6&height=200&section=header&text=NABHAN%20BHOOPATHI&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</p>
+
 
 ### 🧊 About Me
 I am a passionate **Class 12 Computer Science student** and an aspiring Software Engineer. I specialize in building efficient digital solutions from the ground up, ranging from low-level logic in C++ to dynamic web systems in PHP and JavaScript. Like a polar expedition, I love exploring new technologies and pushing the boundaries of what's possible.
