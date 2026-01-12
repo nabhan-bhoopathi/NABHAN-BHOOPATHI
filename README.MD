@@ -2,7 +2,7 @@
 # ❄️ Hi there, I'm Nabhan Bhoopathi! 🐧
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077b6&height=200&section=header&text=NABHAN%20BHOOPATHI&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://avatars.githubusercontent.com/u/246811803?v=4?type=soft&color=0077b6&height=200&section=header&text=NABHAN%20BHOOPATHI&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 ### 🧊 About Me
