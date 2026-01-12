@@ -45,7 +45,7 @@ I am a passionate **Class 12 Computer Science student** and an aspiring Software
 Don't let the conversation freeze up! Reach out to me via:
 
 - **WhatsApp:** [+91 9544616161](https://wa.me/919544616161) 🟢
-- **LinkedIn:** [Your Profile Link Here] 🔵
+- **LinkedIn:** [Nabhan BHoopathi](www.linkedin.com/in/nabhan-bhoopathi)🔵
 - **Email:** [nabhan@example.com](mailto:nabhan@example.com) 📧
 
 ---
