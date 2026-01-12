@@ -10,7 +10,7 @@ I am a passionate **Class 12 Computer Science student** and an aspiring Software
 
 - 🎓 **Status:** Grade 12 CS Specialist
 - 🔭 **Current Focus:** Advanced Data Structures & AI Integration
-- 🏠 **Location:** Digital Antarctica (The Lab)
+- 🏠 **Location:** Kunnamangalam,Kozhikode,Kerala
 - ⚡ **Fun Fact:** I code better when it's sub-zero!
 
 ---
