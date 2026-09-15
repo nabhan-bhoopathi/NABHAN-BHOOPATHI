@@ -4,9 +4,9 @@
 
 
 ### 🧊 About Me
-I am a passionate **B-Tech cse Aistudent** and an aspiring Software Engineer. I specialize in building efficient digital solutions from the ground up, ranging from low-level logic in C++ to dynamic web systems in PHP and JavaScript. Like a polar expedition, I love exploring new technologies and pushing the boundaries of what's possible.
+I am a passionate **B-Tech cse Ai student** and an aspiring Software Engineer. I specialize in building efficient digital solutions from the ground up, ranging from low-level logic in C++ to dynamic web systems in PHP and JavaScript. Like a polar expedition, I love exploring new technologies and pushing the boundaries of what's possible.
 
-- 🎓 **Status:** Grade 12 CS Specialist
+- 🎓 **Status:** B-tech CSE AI 
 - 🔭 **Current Focus:** Advanced Data Structures & AI Integration
 - 🏠 **Location:** Kunnamangalam,Kozhikode,Kerala
 - ⚡ **Fun Fact:** I code better when it's sub-zero!
